@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "19ILTqGmQsWAlIUmF5VzsB7vS/8WNwm+e/9cWj4O/kPzWPwIGRXSksN1ONw9BT8AVNojykqQULhCiZzU6S2rUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agmat\\TutorialsEU\\ChatGPT\\ChatGPT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agmat\\.nuget\\packages\\microsoft.web.webview2\\1.0.1587.40\\microsoft.web.webview2.1.0.1587.40.nupkg.sha512"
+  ],
+  "logs": []
+}
