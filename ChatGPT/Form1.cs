@@ -53,7 +53,7 @@ namespace ChatGPT
         private async void LoadPage()
         {
             await webView21.EnsureCoreWebView2Async();
-            webView21.CoreWebView2.Navigate("http://chat.openai.com/");
+            webView21.CoreWebView2.Navigate("https://chat.openai.com/auth/login");
         }
 
         private void btnRefresh_Click(object sender, EventArgs e)
